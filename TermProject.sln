@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1382
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TermProject", "TermProject\TermProject.csproj", "{1C291E20-A60A-4222-9A75-682F33E92D01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarClassLibrary", "ClassLibrary\CalendarClassLibrary.csproj", "{24F270D2-56C7-4E60-80F0-3C76C13EEDAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarSOAPWebService", "CalendarSOAPWebService\CalendarSOAPWebService.csproj", "{6F8235A8-FAF6-4E55-8896-4E551651113C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalendarCOREWebAPI", "CalendarWebAPI\CalendarCOREWebAPI.csproj", "{EF6CACF5-CDCF-4547-AB93-89484C498C25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C291E20-A60A-4222-9A75-682F33E92D01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C291E20-A60A-4222-9A75-682F33E92D01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C291E20-A60A-4222-9A75-682F33E92D01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C291E20-A60A-4222-9A75-682F33E92D01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F270D2-56C7-4E60-80F0-3C76C13EEDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F270D2-56C7-4E60-80F0-3C76C13EEDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F270D2-56C7-4E60-80F0-3C76C13EEDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F270D2-56C7-4E60-80F0-3C76C13EEDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F8235A8-FAF6-4E55-8896-4E551651113C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F8235A8-FAF6-4E55-8896-4E551651113C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F8235A8-FAF6-4E55-8896-4E551651113C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F8235A8-FAF6-4E55-8896-4E551651113C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF6CACF5-CDCF-4547-AB93-89484C498C25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF6CACF5-CDCF-4547-AB93-89484C498C25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF6CACF5-CDCF-4547-AB93-89484C498C25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF6CACF5-CDCF-4547-AB93-89484C498C25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {810C7876-C55B-49C7-A5AD-438CEFD6D438}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,38 @@
+﻿html, body {
+    height: 100%;
+}
+
+.center-vert-horiz {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+.center-vert-horiz-75 {
+    width: 100%;
+    max-width: 75%;
+    padding: 15px;
+    margin: auto;
+}
+.navigation {
+    background-image: linear-gradient(to right, #247cff, #ffffff);
+    border: solid;
+    border-color: #247cff;
+    background-size: 100% 100%;
+    margin: 0.5%;
+}
+
+tr {
+    padding-bottom: .2em;
+}
+
+.imgAvatarW10 {
+    max-width: 10%;
+    height: auto;
+}
+
+.imgAvatarW8 {
+    max-width: 8%;
+    height: auto;
+}
